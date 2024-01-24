@@ -69,7 +69,7 @@
 35. [Introduzione alla explotazione e Reverse Shells, Bind Shells, Forward Shells](https://youtu.be/HIMsUqdtpW4?si=8iSFmx60E2dZTpIS)
 36. [Tipi di payload](https://youtu.be/QbkisKsWs7k?si=QLaMbe_U-pCUA7bj)
 37. [Tipi di sfruttamento (manuale e automatizzato)](https://youtu.be/moOf0HhUmY4?si=d931ZE0LLLvzwerD)
-38. Enumerazione del sistema
+38. [Enumerazione del sistema](https://youtu.be/n_-oMNurtBE)
 39. Introduzione a Burp Suite
 
 ---
