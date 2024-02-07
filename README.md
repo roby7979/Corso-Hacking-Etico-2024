@@ -70,7 +70,7 @@
 36. [Tipi di payload](https://youtu.be/QbkisKsWs7k?si=QLaMbe_U-pCUA7bj)
 37. [Tipi di sfruttamento (manuale e automatizzato)](https://youtu.be/moOf0HhUmY4?si=d931ZE0LLLvzwerD)
 38. [Enumerazione del sistema](https://youtu.be/n_-oMNurtBE)
-39. [BurpSuite tipi di attacchi]()
+39. [BurpSuite tipi di attacchi](https://youtu.be/VjpUzBxz5L0)
 
 ---
 
