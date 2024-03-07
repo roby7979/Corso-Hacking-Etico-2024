@@ -76,7 +76,7 @@
 
 # OWASP TOP 10 E VULNERABILITA' WEB
 40. [Iniezione SQL (SQLI)](https://youtu.be/CMBTR4jO5fg)
-41. Cross-Site Scripting (XSS) 
+41. [Cross-Site Scripting (XSS)](https://youtu.be/D78xUGUJ51Q)
 42. Iniezione di entità esterne XML (XXE)
 43. Local File Inclusion (LFI)
 44. Remote File Inclusion (RFI)
