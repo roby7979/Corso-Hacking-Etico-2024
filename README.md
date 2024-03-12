@@ -77,40 +77,41 @@
 # OWASP TOP 10 E VULNERABILITA' WEB
 40. [Iniezione SQL (SQLI)](https://youtu.be/CMBTR4jO5fg)
 41. [Cross-Site Scripting (XSS)](https://youtu.be/D78xUGUJ51Q)
-42. Iniezione di entità esterne XML (XXE)
-43. Local File Inclusion (LFI)
-44. Remote File Inclusion (RFI)
-45. Log Poisoning (LFI -> RCE)
-46. Falsificazione di richieste tra siti (CSRF)
-47. Falsificazione di richieste lato server (SSRF)
-48. Iniezione di modelli lato server (SSTI)
-49. Iniezione di modelli lato client (CSTI)
-50. Imbottitura Oracle Attack
-51. Tipo Attacco di giocoleria
-52. Iniezioni NoSQL
-53. Iniezioni LDAP
-54. Attacchi di deserializzazione
-55. Iniezioni di LaTeX
-56. Abuso dell'API
-57. Abuso di caricamento di file
-58. Prototipo Inquinamento
-59. Attacchi di trasferimento di zona (AXFR – Full Zone Transfer)
-60. Attacchi di assegnazione di massa / associazione di parametri
-61. Apri Reindirizzamento
-62. Enumerazione e sfruttamento WebDAV
-63. Enumerazione e sfruttamento dei proxy SQUID
-64. Attacco Shell Shock
-65. Iniezioni di XPath
-66. Riferimenti diretti a oggetti non sicuri (IDOR)
-67. Condivisione delle risorse tra le origini (CORS)
-68. Attacco SQL Truncation
-69. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione
-70. Enumerazione e sfruttamento di Json Web Tokens (JWT)
-71. Condizioni di gara (Race Condition)
-72. Iniezioni di CSS (CSSI)
-73. Python – Attacco di deserializzazione Yaml (DES-Yaml)
-74. Python – Attacco di deserializzazione Pickle (DES-Pickle)
-75. GraphQL Introspezione, Mutazioni e IDOR
+42. Risoluzione Macchina "My Expense" (VulnHub)
+43. Iniezione di entità esterne XML (XXE)
+44. Local File Inclusion (LFI)
+45. Remote File Inclusion (RFI)
+46. Log Poisoning (LFI -> RCE)
+47. Falsificazione di richieste tra siti (CSRF)
+48. Falsificazione di richieste lato server (SSRF)
+49. Iniezione di modelli lato server (SSTI)
+50. Iniezione di modelli lato client (CSTI)
+51. Imbottitura Oracle Attack
+52. Tipo Attacco di giocoleria
+53. Iniezioni NoSQL
+54. Iniezioni LDAP
+55. Attacchi di deserializzazione
+56. Iniezioni di LaTeX
+57. Abuso dell'API
+58. Abuso di caricamento di file
+59. Prototipo Inquinamento
+60. Attacchi di trasferimento di zona (AXFR – Full Zone Transfer)
+61. Attacchi di assegnazione di massa / associazione di parametri
+62. Apri Reindirizzamento
+63. Enumerazione e sfruttamento WebDAV
+64. Enumerazione e sfruttamento dei proxy SQUID
+65. Attacco Shell Shock
+66. Iniezioni di XPath
+67. Riferimenti diretti a oggetti non sicuri (IDOR)
+68. Condivisione delle risorse tra le origini (CORS)
+69. Attacco SQL Truncation
+70. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione
+71. Enumerazione e sfruttamento di Json Web Tokens (JWT)
+72. Condizioni di gara (Race Condition)
+73. Iniezioni di CSS (CSSI)
+74. Python – Attacco di deserializzazione Yaml (DES-Yaml)
+75. Python – Attacco di deserializzazione Pickle (DES-Pickle)
+76. GraphQL Introspezione, Mutazioni e IDOR
     
 ---
 
