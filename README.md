@@ -77,7 +77,7 @@
 # OWASP TOP 10 E VULNERABILITA' WEB
 40. [Iniezione SQL (SQLI)](https://youtu.be/CMBTR4jO5fg)
 41. [Cross-Site Scripting (XSS)](https://youtu.be/D78xUGUJ51Q)
-42. Risoluzione Macchina "My Expense" (VulnHub)
+42. [Risoluzione Macchina "My Expense" (VulnHub)](https://youtu.be/K_gGnExCmpM)
 43. Iniezione di entità esterne XML (XXE)
 44. Local File Inclusion (LFI)
 45. Remote File Inclusion (RFI)
