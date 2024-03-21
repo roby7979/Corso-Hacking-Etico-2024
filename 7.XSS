@@ -1,0 +1,29 @@
+- - - - 
+Una vulnerabilità XSS (Cross-Site Scripting) è un tipo di vulnerabilità della sicurezza informatica che consente a un utente malintenzionato di eseguire codice dannoso sulla pagina Web di un utente a sua insaputa o senza il suo consenso. Questa vulnerabilità consente all'attaccante di rubare informazioni personali come nomi utente, password e altri dati sensibili.
+
+In sostanza, un attacco XSS comporta l'inserimento di codice dannoso in una pagina web vulnerabile, che viene poi eseguito nel browser dell'utente che accede a quella pagina. Il codice dannoso può essere qualsiasi cosa, dagli script che reindirizzano l'utente a un'altra pagina, agli script che registrano le sequenze di tasti o i dati del modulo e li inviano a un server remoto.
+
+Esistono diversi tipi di vulnerabilità XSS, tra cui:
+
+Riflesso: questo tipo di XSS si verifica quando i dati forniti dall'utente si riflettono nella risposta HTTP senza essere adeguatamente verificati. Ciò consente a un utente malintenzionato di inserire codice dannoso nella risposta, che viene poi eseguito nel browser dell'utente.
+Memorizzato: questo tipo di XSS si verifica quando un utente malintenzionato è in grado di archiviare codice dannoso in un database o sul server Web che ospita una pagina Web vulnerabile. Questo codice viene eseguito ogni volta che viene caricata la pagina.
+Basato su DOM: questo tipo di XSS si verifica quando un codice dannoso viene eseguito nel browser dell'utente tramite DOM (Document Object Model). Ciò si verifica quando il codice JavaScript su una pagina Web modifica il DOM in modo da renderlo vulnerabile all'iniezione di codice dannoso.
+Gli attacchi XSS possono avere gravi conseguenze per aziende e singoli utenti. Per questo motivo è essenziale che gli sviluppatori web implementino misure di sicurezza adeguate per prevenire le vulnerabilità XSS. Queste misure possono includere la convalida dei dati di input, la rimozione di codice HTML pericoloso e la limitazione delle autorizzazioni JavaScript nel browser dell'utente.
+
+Di seguito è riportato il progetto Github corrispondente al laboratorio che allestiremo per mettere in pratica la vulnerabilità XSS:
+
+secDevLabs: https://github.com/globocom/secDevLabs
+
+- - - -
+## Secondo Laboratorio
+
+Proveremo a risolvere una macchina sulla piattaforma Vulnhub per esercitarci negli attacchi XSS.
+
+Vulnhub è una piattaforma di sicurezza informatica che si concentra sulla creazione e distribuzione di macchine virtuali vulnerabili al fine di migliorare le competenze dei professionisti della sicurezza informatica. La piattaforma fornisce un'ampia varietà di macchine virtuali (VM) che sono state configurate per contenere vulnerabilità intenzionali che possono essere sfruttate per apprendere e rafforzare le tecniche di hacking.
+
+Di seguito è riportato il collegamento alla macchina che abbiamo scaricato in questa lezione per esercitarci su questa vulnerabilità:
+
+Macchina MyExpense: https://www.vulnhub.com/entry/myexpense-1,405/
+
+- - - 
+[VIDEO](https://youtu.be/D78xUGUJ51Q)
