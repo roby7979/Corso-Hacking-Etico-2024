@@ -1,5 +1,5 @@
  - - - - -
- L'enumerazione è un processo fondamentale per identificare, ad esempio, potenziali modi per elevare i nostri privilegi utente, nonché per comprendere la struttura del sistema bersaglio e trovare informazioni utili per attacchi futuri. 
+ **L'enumerazione** è un processo fondamentale per identificare, ad esempio, potenziali modi per elevare i nostri privilegi utente, nonché per comprendere la struttura del sistema bersaglio e trovare informazioni utili per attacchi futuri. 
  Alcuni degli strumenti che vediamo in questa classe sono: 
  
  # LSE (Linux Smart Enumeration): 
