@@ -1,6 +1,4 @@
  - - - - -
- In classe discuteremo dell'importanza di enumerare correttamente il sistema una volta che la sua sicurezza è stata violata. 
- 
  L'enumerazione è un processo fondamentale per identificare, ad esempio, potenziali modi per elevare i nostri privilegi utente, nonché per comprendere la struttura del sistema bersaglio e trovare informazioni utili per attacchi futuri. 
  Alcuni degli strumenti che vediamo in questa classe sono: 
  
