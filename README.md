@@ -78,7 +78,7 @@
 40. [Iniezione SQL (SQLI)](https://youtu.be/CMBTR4jO5fg)
 41. [Cross-Site Scripting (XSS)](https://youtu.be/D78xUGUJ51Q)
 42. [Risoluzione Macchina "My Expense" (VulnHub)](https://youtu.be/K_gGnExCmpM)
-43. Iniezione di entità esterne XML (XXE)
+43. [Iniezione di entità esterne XML (XXE)](https://youtu.be/MRAmYWWynrU)
 44. Local File Inclusion (LFI)
 45. Remote File Inclusion (RFI)
 46. Log Poisoning (LFI -> RCE)
