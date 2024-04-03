@@ -1,0 +1,26 @@
+- - -
+Quando parliamo di XML External Entity (XXE) Injection, ciò a cui ci riferiamo è una vulnerabilità di sicurezza in cui un utente malintenzionato può utilizzare un input XML dannoso per accedere a risorse di sistema che normalmente non sarebbero disponibili, come file o servizi locali della rete. . Questa vulnerabilità può essere sfruttata nelle applicazioni che utilizzano XML per elaborare l'input, come applicazioni Web o servizi Web.
+
+Un attacco XXE comporta in genere l'inserimento di un'entità XML dannosa in una richiesta HTTP, che viene elaborata dal server e può comportare l'esposizione di informazioni sensibili. Ad esempio, un utente malintenzionato potrebbe inserire un'entità XML che fa riferimento a un file sul sistema server e ottenere informazioni riservate da quel file.
+
+Un caso comune in cui gli attaccanti possono sfruttare XXE è quando il server Web non convalida correttamente l'input di dati XML che riceve. In questo caso, un utente malintenzionato può inserire un'entità XML dannosa che contiene riferimenti ai file di sistema a cui ha accesso il server. Ciò può consentire all'attaccante di ottenere informazioni sensibili sul sistema come password, nomi utente, chiavi API e altri dati sensibili.
+
+Va notato che gli attacchi XML External Entity (XXE) Injection a volte non sempre comportano l'esposizione diretta di informazioni sensibili nella risposta del server. In alcuni casi, l’aggressore deve “diventare cieco” per ottenere informazioni sensibili attraverso tecniche aggiuntive.
+
+Un modo comune per “andare alla cieca” in un attacco XXE è inviare richieste appositamente predisposte dal server per connettersi a un Document Type Definition (DTD) definito esternamente. Il DTD viene utilizzato per convalidare la struttura di un file XML e può contenere riferimenti a risorse esterne, come file sul sistema server.
+
+Questo approccio “alla cieca” a un attacco XXE può essere più lento e dispendioso in termini di lavoro rispetto allo sfruttamento diretto della vulnerabilità. Tuttavia, può essere efficace nei casi in cui l’attaccante ha un’idea generale delle risorse disponibili sul sistema e desidera ottenere informazioni specifiche senza essere scoperto.
+
+Inoltre, in alcuni casi, un attacco XXE può essere utilizzato come vettore di attacco per sfruttare una vulnerabilità SSRF (Server-Side Request Forgery). Questa tecnica di attacco può consentire a un utente malintenzionato di scansionare le porte interne di una macchina che normalmente sono protette da un firewall esterno.
+
+Un attacco SSRF comporta l'invio di richieste HTTP dal server a indirizzi IP interni o porte sulla rete della vittima. L'attacco XXE può essere utilizzato per attivare un SSRF iniettando un'entità XML dannosa che contiene un riferimento a un indirizzo IP interno o a una porta sulla rete del server.
+
+Sfruttando con successo un SSRF, l'aggressore può inviare richieste HTTP a servizi interni che altrimenti non sarebbero disponibili alla rete esterna. Ciò può consentire all'aggressore di ottenere informazioni sensibili o addirittura di assumere il controllo dei servizi interni.
+
+Di seguito è riportato il collegamento al progetto Github corrispondente al laboratorio che implementeremo in questa classe per mettere in pratica questa vulnerabilità:
+
+XXELab: https://github.com/jbarone/xxelab
+
+- - - -
+
+[Video](https://youtu.be/MRAmYWWynrU)
