@@ -79,7 +79,7 @@
 41. [Cross-Site Scripting (XSS)](https://youtu.be/D78xUGUJ51Q)
 42. [Risoluzione Macchina "My Expense" (VulnHub)](https://youtu.be/K_gGnExCmpM)
 43. [Iniezione di entità esterne XML (XXE)](https://youtu.be/MRAmYWWynrU)
-44. Local File Inclusion (LFI)
+44. [Local File Inclusion (LFI)](https://youtu.be/SuC0ljz8aWA)
 45. Remote File Inclusion (RFI)
 46. Log Poisoning (LFI -> RCE)
 47. Falsificazione di richieste tra siti (CSRF)
