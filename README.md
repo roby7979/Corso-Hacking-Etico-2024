@@ -16,7 +16,7 @@
 ### ***Corso Hacking Etico 2024:***
 
 # CONCETTI DI BASE
-1. [Cosa e' un indirizzo IP(IPV4 e IPV6)]([https://youtu.be/Yl9WfvqAHbM?si=oMEeoDW5USNGc4wd](https://youtu.be/io5heKn6VwU?si=hreLvZEeDbpOzH8A))
+1. [Cosa e' un indirizzo IP(IPV4 e IPV6)](https://youtu.be/io5heKn6VwU?si=1fmQ99c3lGR5cPht)
 2. [Cosa sono gli Indirizzi MAC (OUI e NIC)](https://youtu.be/Yl9WfvqAHbM?si=NzktguXzA6ba-WPy)
 3. [I Protocolli piu' comuni (UDP, TCP) e il famoso Three-Way Handshake](https://youtu.be/BB1o5TxJcoA?si=8GvNiLa3TwkmACJf)
 4. [Il modello OSI: cos'è e come è strutturata l'attività di rete a livelli](https://youtu.be/WeEkNyrKrZc) 
