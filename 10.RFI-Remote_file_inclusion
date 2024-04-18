@@ -1,0 +1,14 @@
+- - -
+La vulnerabilità Remote File Inclusion (RFI) è una vulnerabilità della sicurezza in cui un utente malintenzionato può includere file remoti in un'applicazione Web vulnerabile. Ciò potrebbe consentire all'attaccante di eseguire codice dannoso sul server Web e compromettere il sistema.
+
+In un attacco RFI, l'attaccante utilizza l'input dell'utente, come un URL o un campo modulo, per includere un file remoto nella richiesta. Se l'applicazione web non convalida correttamente questi input, elaborerà la richiesta e restituirà il contenuto del file remoto all'aggressore.
+
+Un utente malintenzionato può sfruttare questa vulnerabilità per includere file remoti dannosi che contengono codice dannoso, come virus o cavalli di Troia, o per eseguire comandi sul server vulnerabile. In alcuni casi, l’aggressore può indirizzare la richiesta a una risorsa PHP ospitata su un server di sua proprietà, garantendogli un maggiore grado di controllo nell’attacco.
+
+Di seguito è riportato il collegamento al progetto Github corrispondente al laboratorio che implementeremo per testare questa vulnerabilità:
+
+DVWP: https://github.com/vavkamil/dvwp
+Allo stesso modo, condividiamo il collegamento diretto per scaricare il plugin WordPress "Gwolle Guestbook":
+
+Gwolle: https://es.wordpress.org/plugins/gwolle-gb/
+
