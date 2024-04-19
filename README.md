@@ -81,7 +81,7 @@
 43. [Iniezione di entità esterne XML (XXE)](https://youtu.be/MRAmYWWynrU)
 44. [Local File Inclusion (LFI)](https://youtu.be/SuC0ljz8aWA)
 45. [Remote File Inclusion (RFI)](https://youtu.be/gV04eDYs0aw)
-46. Log Poisoning (LFI -> RCE)
+46. [Log Poisoning (LFI -> RCE)](https://youtu.be/LtP3toc1Oz0)
 47. Falsificazione di richieste tra siti (CSRF)
 48. Falsificazione di richieste lato server (SSRF)
 49. Iniezione di modelli lato server (SSTI)
