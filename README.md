@@ -82,7 +82,7 @@
 44. [Local File Inclusion (LFI)](https://youtu.be/SuC0ljz8aWA)
 45. [Remote File Inclusion (RFI)](https://youtu.be/gV04eDYs0aw)
 46. [Log Poisoning (LFI -> RCE)](https://youtu.be/LtP3toc1Oz0)
-47. [Cross-Site Request Forgery (CSRF)]()
+47. [Cross-Site Request Forgery (CSRF)](https://youtu.be/pFryrSGYKKc)
 48. FServer-side Request Forgery (SSRF)
 49. Iniezione di modelli lato server (SSTI)
 50. Iniezione di modelli lato client (CSTI)
