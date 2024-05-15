@@ -87,7 +87,7 @@
 49. Iniezione di modelli lato server (SSTI)
 50. Iniezione di modelli lato client (CSTI)
 51. Imbottitura Oracle Attack
-52. Tipo Attacco di giocoleria
+52. Tipo Attacco juggling
 53. Iniezioni NoSQL
 54. Iniezioni LDAP
 55. Attacchi di deserializzazione
