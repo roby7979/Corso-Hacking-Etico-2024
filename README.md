@@ -84,12 +84,12 @@
 46. [Log Poisoning (LFI -> RCE)](https://youtu.be/LtP3toc1Oz0)
 47. [Cross-Site Request Forgery (CSRF)](https://youtu.be/pFryrSGYKKc)
 48. [Server-side Request Forgery (SSRF)](https://youtu.be/_GvUsfUjYi4)
-49. Iniezione di modelli lato server (SSTI)
-50. Iniezione di modelli lato client (CSTI)
-51. Imbottitura Oracle Attack
-52. Tipo Attacco juggling
-53. Iniezioni NoSQL
-54. Iniezioni LDAP
+49. [Server-Side Template Injection (SSTI)](https://youtu.be/nplhRpAJIzE)
+50. [Client-Side Template Injection (CSTI)]
+51. Attacco Padding Oracle
+52. Attacco juggling
+53. NoSQL Injection
+54. LDAP Injection
 55. Attacchi di deserializzazione
 56. Iniezioni di LaTeX
 57. Abuso dell'API
