@@ -86,7 +86,7 @@
 48. [Server-side Request Forgery (SSRF)](https://youtu.be/_GvUsfUjYi4)
 49. [Server-Side Template Injection (SSTI)](https://youtu.be/nplhRpAJIzE)
 50. [Client-Side Template Injection (CSTI)](https://youtu.be/QnZagXyFDEE)
-51. Attacco Padding Oracle
+51. [Attacco Padding Oracle](https://youtu.be/gCENbWy9OBM)
 52. Attacco juggling
 53. NoSQL Injection
 54. LDAP Injection
