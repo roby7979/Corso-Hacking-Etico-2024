@@ -88,7 +88,7 @@
 50. [Client-Side Template Injection (CSTI)](https://youtu.be/QnZagXyFDEE)
 51. [Attacco Padding Oracle](https://youtu.be/gCENbWy9OBM)
 52. [Attacco Type juggling](https://youtu.be/IBb-48ltLn0)
-53. NoSQL Injection
+53. [NoSQL Injection](https://youtu.be/NSWtgaJfKE4)
 54. LDAP Injection
 55. Attacchi di deserializzazione
 56. Iniezioni di LaTeX
