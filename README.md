@@ -90,28 +90,28 @@
 52. [Attacco Type juggling](https://youtu.be/IBb-48ltLn0)
 53. [NoSQL Injection](https://youtu.be/NSWtgaJfKE4)
 54. LDAP Injection
-55. Attacchi di deserializzazione - SOLO ABBONATI
-56. Iniezioni di LaTeX - SOLO ABBONATI
-57. Abuso dell'API - SOLO ABBONATI
-58. Abuso di caricamento di file - SOLO ABBONATI
-59. Prototipo Inquinamento - SOLO ABBONATI
-60. Attacchi di trasferimento di zona (AXFR – Full Zone Transfer) - SOLO ABBONATI
-61. Attacchi di assegnazione di massa / associazione di parametri - SOLO ABBONATI
-62. Apri Reindirizzamento - SOLO ABBONATI
-63. Enumerazione e sfruttamento WebDAV - SOLO ABBONATI
-64. Enumerazione e sfruttamento dei proxy SQUID - SOLO ABBONATI
-65. Attacco Shell Shock - SOLO ABBONATI
-66. Iniezioni di XPath - SOLO ABBONATI
-67. Riferimenti diretti a oggetti non sicuri (IDOR) - SOLO ABBONATI
-68. Condivisione delle risorse tra le origini (CORS) - SOLO ABBONATI
-69. Attacco SQL Truncation - SOLO ABBONATI
-70. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione - SOLO ABBONATI
-71. Enumerazione e sfruttamento di Json Web Tokens (JWT) - SOLO ABBONATI
-72. Condizioni di gara (Race Condition) - SOLO ABBONATI
-73. Iniezioni di CSS (CSSI) - SOLO ABBONATI
-74. Python – Attacco di deserializzazione Yaml (DES-Yaml) - SOLO ABBONATI
-75. Python – Attacco di deserializzazione Pickle (DES-Pickle) - SOLO ABBONATI
-76. GraphQL Introspezione, Mutazioni e IDOR - SOLO ABBONATI
+    Attacchi di deserializzazione - SOLO ABBONATI
+    Iniezioni di LaTeX - SOLO ABBONATI
+    Abuso dell'API - SOLO ABBONATI
+    Abuso di caricamento di file - SOLO ABBONATI
+    Prototipo Inquinamento - SOLO ABBONATI
+    Attacchi di trasferimento di zona (AXFR – Full Zone Transfer) - SOLO ABBONATI
+    Attacchi di assegnazione di massa / associazione di parametri - SOLO ABBONATI
+    Apri Reindirizzamento - SOLO ABBONATI
+    Enumerazione e sfruttamento WebDAV - SOLO ABBONATI
+    Enumerazione e sfruttamento dei proxy SQUID - SOLO ABBONATI
+    Attacco Shell Shock - SOLO ABBONATI
+    Iniezioni di XPath - SOLO ABBONATI
+    Riferimenti diretti a oggetti non sicuri (IDOR) - SOLO ABBONATI
+    Condivisione delle risorse tra le origini (CORS) - SOLO ABBONATI
+    Attacco SQL Truncation - SOLO ABBONATI
+    Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione - SOLO ABBONATI
+    Enumerazione e sfruttamento di Json Web Tokens (JWT) - SOLO ABBONATI
+    Condizioni di gara (Race Condition) - SOLO ABBONATI
+    Iniezioni di CSS (CSSI) - SOLO ABBONATI
+    Python – Attacco di deserializzazione Yaml (DES-Yaml) - SOLO ABBONATI
+    Python – Attacco di deserializzazione Pickle (DES-Pickle) - SOLO ABBONATI
+    GraphQL Introspezione, Mutazioni e IDOR - SOLO ABBONATI
     
 ---
 
