@@ -91,11 +91,11 @@
 53. [NoSQL Injection](https://youtu.be/NSWtgaJfKE4)
 54. LDAP Injection
     
-1.SOLO ABBONATI - Attacchi di deserializzazione 
-2.SOLO ABBONATI - Iniezioni di LaTeX 
-    Abuso dell'API - SOLO ABBONATI
-    Abuso di caricamento di file - SOLO ABBONATI
-    Prototipo Inquinamento - SOLO ABBONATI
+1. SOLO ABBONATI - Attacchi di deserializzazione 
+2. SOLO ABBONATI - Iniezioni di LaTeX 
+3. SOLO ABBONATI - Abuso dell'API - SOLO ABBONATI
+4. SOLO ABBONATI - Abuso di caricamento di file - SOLO ABBONATI
+5. SOLO ABBONATI - Prototipo Inquinamento - SOLO ABBONATI
     Attacchi di trasferimento di zona (AXFR – Full Zone Transfer) - SOLO ABBONATI
     Attacchi di assegnazione di massa / associazione di parametri - SOLO ABBONATI
     Apri Reindirizzamento - SOLO ABBONATI
