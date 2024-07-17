@@ -93,29 +93,29 @@
 
 ---
 
-# SOLO ABBONATI  
-1. SOLO ABBONATI - Attacchi di deserializzazione 
-2. SOLO ABBONATI - Iniezioni di LaTeX 
-3. SOLO ABBONATI - Abuso dell'API - SOLO ABBONATI
-4. SOLO ABBONATI - Abuso di caricamento di file - SOLO ABBONATI
-5. SOLO ABBONATI - Prototipo Inquinamento - SOLO ABBONATI
-    Attacchi di trasferimento di zona (AXFR – Full Zone Transfer) - SOLO ABBONATI
-    Attacchi di assegnazione di massa / associazione di parametri - SOLO ABBONATI
-    Apri Reindirizzamento - SOLO ABBONATI
-    Enumerazione e sfruttamento WebDAV - SOLO ABBONATI
-    Enumerazione e sfruttamento dei proxy SQUID - SOLO ABBONATI
-    Attacco Shell Shock - SOLO ABBONATI
-    Iniezioni di XPath - SOLO ABBONATI
-    Riferimenti diretti a oggetti non sicuri (IDOR) - SOLO ABBONATI
-    Condivisione delle risorse tra le origini (CORS) - SOLO ABBONATI
-    Attacco SQL Truncation - SOLO ABBONATI
-    Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione - SOLO ABBONATI
-    Enumerazione e sfruttamento di Json Web Tokens (JWT) - SOLO ABBONATI
-    Condizioni di gara (Race Condition) - SOLO ABBONATI
-    Iniezioni di CSS (CSSI) - SOLO ABBONATI
-    Python – Attacco di deserializzazione Yaml (DES-Yaml) - SOLO ABBONATI
-    Python – Attacco di deserializzazione Pickle (DES-Pickle) - SOLO ABBONATI
-    GraphQL Introspezione, Mutazioni e IDOR - SOLO ABBONATI
+# VULNERABILITA' SOLO ABBONATI PROHACK & ELITEHACK
+1. Attacchi di deserializzazione 
+2. Iniezioni di LaTeX 
+3. Abuso dell'API 
+4. Abuso di caricamento di file 
+5. Prototipo Inquinamento 
+6. Attacchi di trasferimento di zona (AXFR – Full Zone Transfer) 
+7. Attacchi di assegnazione di massa / associazione di parametri 
+8. Apri Reindirizzamento 
+9. Enumerazione e sfruttamento WebDAV 
+10. Enumerazione e sfruttamento dei proxy SQUID 
+11. Attacco Shell Shock - SOLO ABBONATI
+12. Iniezioni di XPath - SOLO ABBONATI
+13. Riferimenti diretti a oggetti non sicuri (IDOR) 
+14. Condivisione delle risorse tra le origini (CORS) 
+15. Attacco SQL Truncation - SOLO ABBONATI
+16. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione 
+17. Enumerazione e sfruttamento di Json Web Tokens (JWT) 
+18. Condizioni di gara (Race Condition) 
+19. Iniezioni di CSS (CSSI) 
+20. Python – Attacco di deserializzazione Yaml (DES-Yaml) 
+21. Python – Attacco di deserializzazione Pickle (DES-Pickle) 
+22. GraphQL Introspezione, Mutazioni e IDOR 
     
 ---
 
