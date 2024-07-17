@@ -93,7 +93,7 @@
 
 ---
 
-# VULNERABILITA' SOLO ABBONATI PROHACK & ELITEHACK
+# VULNERABILITA' SOLO PER ABBONATI PROHACK & ELITEHACK
 1. Attacchi di deserializzazione 
 2. Iniezioni di LaTeX 
 3. Abuso dell'API 
@@ -120,53 +120,53 @@
 ---
 
 # TECNINCHE DI SCALATA DI PRIVILEGI
-77. Abuso dei privilegi a livello di Sudoers
-78. Abuso dei privilegi SUID
-79. Rilevamento e sfruttamento delle attività Cron
-80. Dirottamento Percorso
-81. Dirottamento della libreria Python
-82. Abuso di autorizzazioni implementate in modo errato
-83. Rilevamento e sfruttamento delle capacità
-84. Sfruttamento del kernel
-85. Abuso di gruppi di utenti speciali
-86. Abuso dei servizi di sistema interni
-87. Abuso di binari specifici
-88. Hijacking della libreria di oggetti condivisi collegata dinamicamente
-89. Evasione Docker
+55. Abuso dei privilegi a livello di Sudoers
+56. Abuso dei privilegi SUID
+57. Rilevamento e sfruttamento delle attività Cron
+58. Dirottamento Percorso
+59. Dirottamento della libreria Python
+60. Abuso di autorizzazioni implementate in modo errato
+61. Rilevamento e sfruttamento delle capacità
+62. Sfruttamento del kernel
+63. Abuso di gruppi di utenti speciali
+64. Abuso dei servizi di sistema interni
+65. Abuso di binari specifici
+66. Hijacking della libreria di oggetti condivisi collegata dinamicamente
+67. Evasione Docker
 
 ---
 
 # BUFFER OVERFLOW
-90. Introduzione al Buffer Overflow
-91. Creazione del nostro laboratorio di test e installazione di Immunity Debuger
-92. Fase iniziale di Fuzzing e presa di controllo del registro EIP
-93. Assegnazione dello spazio per lo shellcode
-94. Generazione di bytearray e rilevamento di badchar
-95. Ricerca OpCodes per entrare nell'ESP e caricare il nostro Shellcode
-96. Utilizzo di NOP, offset dello stack e interpretazione dello shellcode per ottenere RCE
-97. Modifica dello shellcode per controllare il comando da eseguire
-98. Sfruttamento di un nuovo binario per rafforzare ciò che è stato appreso
-99. Funzionamento e creazione manuale di Shellcode
+68. Introduzione al Buffer Overflow
+69. Creazione del nostro laboratorio di test e installazione di Immunity Debuger
+70. Fase iniziale di Fuzzing e presa di controllo del registro EIP
+71. Assegnazione dello spazio per lo shellcode
+72. Generazione di bytearray e rilevamento di badchar
+73. Ricerca OpCodes per entrare nell'ESP e caricare il nostro Shellcode
+74. Utilizzo di NOP, offset dello stack e interpretazione dello shellcode per ottenere RCE
+75. Modifica dello shellcode per controllare il comando da eseguire
+76. Sfruttamento di un nuovo binario per rafforzare ciò che è stato appreso
+77. Funzionamento e creazione manuale di Shellcode
 
 ---
 
 # RISOLUZIONE MACCHINE
-100. Risoluzione macchina #1 (Easy)
-101. Risoluzione macchina #2 (Medium)
-102. Risoluzione macchina #3 (Hard)
-103. Risoluzione macchina #4 (Hard)
-104. Risoluzione macchina #5 (Insane)
+78. Risoluzione macchina #1 (Easy)
+79. Risoluzione macchina #2 (Medium)
+80. Risoluzione macchina #3 (Hard)
+81. Risoluzione macchina #4 (Hard)
+82. Risoluzione macchina #5 (Insane)
 
 ---
 
 # STRUMENTI AUTOMATIZZATI
-105. Introduzione a Metasploit
-106. Introduzione a SQLMap
-107. Introduzione al Pivoting
+83. Introduzione a Metasploit
+84. Introduzione a SQLMap
+85. Introduzione al Pivoting
 
 ---
 
 # STESURA REPORT
-108. Creazione di un report professionale in LaTeX (1/2)
-109. Creazione di un report professionale in LaTeX (2/2)
+86. Creazione di un report professionale in LaTeX (1/2)
+87. Creazione di un report professionale in LaTeX (2/2)
 
