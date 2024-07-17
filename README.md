@@ -90,8 +90,8 @@
 52. [Attacco Type juggling](https://youtu.be/IBb-48ltLn0)
 53. [NoSQL Injection](https://youtu.be/NSWtgaJfKE4)
 54. LDAP Injection
-    Attacchi di deserializzazione - SOLO ABBONATI
-    Iniezioni di LaTeX - SOLO ABBONATI
+. Attacchi di deserializzazione - SOLO ABBONATI
+. Iniezioni di LaTeX - SOLO ABBONATI
     Abuso dell'API - SOLO ABBONATI
     Abuso di caricamento di file - SOLO ABBONATI
     Prototipo Inquinamento - SOLO ABBONATI
