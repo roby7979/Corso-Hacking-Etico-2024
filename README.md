@@ -89,33 +89,33 @@
 51. [Attacco Padding Oracle](https://youtu.be/gCENbWy9OBM)
 52. [Attacco Type juggling](https://youtu.be/IBb-48ltLn0)
 53. [NoSQL Injection](https://youtu.be/NSWtgaJfKE4)
-54. LDAP Injection
 
 ---
 
 # VULNERABILITA' SOLO PER ABBONATI PROHACK & ELITEHACK
-1. Attacchi di deserializzazione 
-2. Iniezioni di LaTeX 
-3. Abuso dell'API 
-4. Abuso di caricamento di file 
-5. Prototipo Inquinamento 
-6. Attacchi di trasferimento di zona (AXFR – Full Zone Transfer) 
-7. Attacchi di assegnazione di massa / associazione di parametri 
-8. Apri Reindirizzamento 
-9. Enumerazione e sfruttamento WebDAV 
-10. Enumerazione e sfruttamento dei proxy SQUID 
-11. Attacco Shell Shock - SOLO ABBONATI
-12. Iniezioni di XPath - SOLO ABBONATI
-13. Riferimenti diretti a oggetti non sicuri (IDOR) 
-14. Condivisione delle risorse tra le origini (CORS) 
-15. Attacco SQL Truncation - SOLO ABBONATI
-16. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione 
-17. Enumerazione e sfruttamento di Json Web Tokens (JWT) 
-18. Condizioni di gara (Race Condition) 
-19. Iniezioni di CSS (CSSI) 
-20. Python – Attacco di deserializzazione Yaml (DES-Yaml) 
-21. Python – Attacco di deserializzazione Pickle (DES-Pickle) 
-22. GraphQL Introspezione, Mutazioni e IDOR 
+1. LDAP Injection
+2. Attacchi di deserializzazione 
+3. Iniezioni di LaTeX 
+4. Abuso dell'API 
+5. Abuso di caricamento di file 
+6. Prototipo Inquinamento 
+7. Attacchi di trasferimento di zona (AXFR – Full Zone Transfer) 
+8. Attacchi di assegnazione di massa / associazione di parametri 
+9. Apri Reindirizzamento 
+10. Enumerazione e sfruttamento WebDAV 
+11. Enumerazione e sfruttamento dei proxy SQUID 
+12. Attacco Shell Shock - SOLO ABBONATI
+13. Iniezioni di XPath - SOLO ABBONATI
+14. Riferimenti diretti a oggetti non sicuri (IDOR) 
+15. Condivisione delle risorse tra le origini (CORS) 
+16. Attacco SQL Truncation - SOLO ABBONATI
+17. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione 
+18. Enumerazione e sfruttamento di Json Web Tokens (JWT) 
+19. Condizioni di gara (Race Condition) 
+20. Iniezioni di CSS (CSSI) 
+21. Python – Attacco di deserializzazione Yaml (DES-Yaml) 
+22. Python – Attacco di deserializzazione Pickle (DES-Pickle) 
+23. GraphQL Introspezione, Mutazioni e IDOR 
     
 ---
 
