@@ -120,7 +120,7 @@
 ---
 
 # TECNINCHE DI SCALATA DI PRIVILEGI
-54. Abuso dei privilegi a livello di Sudoers
+54. [Abuso dei privilegi a livello di Sudoers](https://youtu.be/hivw5R9vOFo)
 55. Abuso dei privilegi SUID
 56. Rilevamento e sfruttamento delle attività Cron
 57. Dirottamento Percorso
