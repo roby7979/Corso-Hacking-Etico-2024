@@ -13,7 +13,7 @@
 
 ---
 
-### ***Corso Hacking Etico 2024:***
+### ***Corso Hacking Etico 2024: Venite sil nostro [discord](https://discord.gg/FEjgBMdAeA) ***
 
 # CONCETTI DI BASE
 1. [Cosa e' un indirizzo IP(IPV4 e IPV6)](https://youtu.be/io5heKn6VwU?si=1fmQ99c3lGR5cPht)
