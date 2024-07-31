@@ -104,11 +104,11 @@
 9. Apri Reindirizzamento 
 10. Enumerazione e sfruttamento WebDAV 
 11. Enumerazione e sfruttamento dei proxy SQUID 
-12. Attacco Shell Shock - SOLO ABBONATI
-13. Iniezioni di XPath - SOLO ABBONATI
+12. Attacco Shell Shock 
+13. Iniezioni di XPath 
 14. Riferimenti diretti a oggetti non sicuri (IDOR) 
 15. Condivisione delle risorse tra le origini (CORS) 
-16. Attacco SQL Truncation - SOLO ABBONATI
+16. Attacco SQL Truncation 
 17. Enigma della sessione / Fissazione della sessione / Sovraccarico variabile della sessione 
 18. Enumerazione e sfruttamento di Json Web Tokens (JWT) 
 19. Condizioni di gara (Race Condition) 
@@ -132,7 +132,7 @@
 63. Abuso dei servizi di sistema interni
 64. Abuso di binari specifici
 65. Hijacking della libreria di oggetti condivisi collegata dinamicamente
-66. Evasione Docker
+66. Evasione Docker - SOLO ABBONATI
 
 ---
 
@@ -153,16 +153,16 @@
 # RISOLUZIONE MACCHINE
 77. Risoluzione macchina #1 (Easy)
 78. Risoluzione macchina #2 (Medium)
-79. Risoluzione macchina #3 (Hard)
+79. Risoluzione macchina #3 (Hard) - SOLO ABBONATI
 80. Risoluzione macchina #4 (Hard)
-81. Risoluzione macchina #5 (Insane)
+81. Risoluzione macchina #5 (Insane) - SOLO ABBONATI
 
 ---
 
 # STRUMENTI AUTOMATIZZATI
 82. Introduzione a Metasploit
 83. Introduzione a SQLMap
-84. Introduzione al Pivoting
+84. Introduzione al Pivoting - SOLO ABBONATI
     
 ---
 
