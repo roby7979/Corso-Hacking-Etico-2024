@@ -122,11 +122,11 @@
 # TECNINCHE DI SCALATA DI PRIVILEGI
 54. [Abuso dei privilegi a livello di Sudoers](https://youtu.be/hivw5R9vOFo)
 55. [Abuso dei privilegi SUID](https://youtu.be/FK26X6SCmAw)
-56. Rilevamento e sfruttamento delle attività Cron
-57. Dirottamento Percorso
-58. Dirottamento della libreria Python
+56. Rilevare e Explotare Cronjob
+57. Path Hijaching
+58. Python Library Hijaching
 59. Abuso di autorizzazioni implementate in modo errato
-60. Rilevamento e sfruttamento delle capacità
+60. Rilevamento e sfruttamento delle Capabilities
 61. Sfruttamento del kernel
 62. Abuso di gruppi di utenti speciali
 63. Abuso dei servizi di sistema interni
