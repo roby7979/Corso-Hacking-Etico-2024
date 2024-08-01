@@ -139,14 +139,14 @@
 # BUFFER OVERFLOW
 67. Introduzione al Buffer Overflow
 68. Creazione del nostro laboratorio di test e installazione di Immunity Debuger
-69. Fase iniziale di Fuzzing e presa di controllo del registro EIP
+69. Fase iniziale di Fuzzing e presa di controllo del registro EIP - SOLO ABBONATI
 70. Assegnazione dello spazio per lo shellcode
 71. Generazione di bytearray e rilevamento di badchar
 72. Ricerca OpCodes per entrare nell'ESP e caricare il nostro Shellcode
 73. Utilizzo di NOP, offset dello stack e interpretazione dello shellcode per ottenere RCE
 74. Modifica dello shellcode per controllare il comando da eseguire
-75. Sfruttamento di un nuovo binario per rafforzare ciò che è stato appreso
-76. Funzionamento e creazione manuale di Shellcode
+75. Sfruttamento di un nuovo binario per rafforzare ciò che è stato appreso - SOLO ABBONATI
+76. Funzionamento e creazione manuale di Shellcode - SOLO ABBONATI
 
 ---
 
