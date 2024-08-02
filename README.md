@@ -125,7 +125,7 @@
 56. [Rilevare e Explotare Cronjob](https://youtu.be/7be6McXUuW0)
 57. [PATH Hijacking](https://youtu.be/wcUHRBfLq2U)
 58. [Python Library Hijacking](https://youtu.be/kALX-ZMF9bA)
-59. Abuso di autorizzazioni implementate in modo errato
+59. [Abuso di permessi implementati in modo errato](https://youtu.be/omFbCBrunNQ)
 60. Rilevamento e sfruttamento delle Capabilities
 61. Sfruttamento del kernel
 62. Abuso di gruppi di utenti speciali
