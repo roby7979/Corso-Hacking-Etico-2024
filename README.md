@@ -124,7 +124,7 @@
 55. [Abuso dei privilegi SUID](https://youtu.be/FK26X6SCmAw)
 56. [Rilevare e Explotare Cronjob](https://youtu.be/7be6McXUuW0)
 57. [PATH Hijacking](https://youtu.be/wcUHRBfLq2U)
-58. Python Library Hijacking
+58. [Python Library Hijacking](https://youtu.be/kALX-ZMF9bA)
 59. Abuso di autorizzazioni implementate in modo errato
 60. Rilevamento e sfruttamento delle Capabilities
 61. Sfruttamento del kernel
