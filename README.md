@@ -73,9 +73,3 @@
 39. Introduzione a Burp Suite
 
 
-
-
-# STESURA REPORT
-1. Creazione di un report professionale in LaTeX (1/2)
-2. Creazione di un report professionale in LaTeX (2/2)
-
